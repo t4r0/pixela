@@ -1,0 +1,23 @@
+{
+  "name": "Pixela",
+  "version": "1.0.0",
+  "description": "New web page for Pixela",
+  "main": "index.js",
+  "author": "SixPack-AA, pblinux, t4r0, jescalantegt, IsaaCR",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "conf-stack": "^0.0.7",
+    "express": "^4.15.2",
+    "hypernova": "^2.0.0",
+    "hypernova-client": "^1.1.0",
+    "hypernova-react": "^2.0.0",
+    "moment": "^2.18.1",
+    "react": "^15.5.4",
+    "sequelize": "^3.30.4"
+  },
+  "devDependencies": {
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "2"
+  }
+}
